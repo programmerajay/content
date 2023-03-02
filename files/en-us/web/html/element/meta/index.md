@@ -54,7 +54,7 @@ The **`<meta>`** [HTML](/en-US/docs/Web/HTML) element represents {{Glossary("Met
             <code>&#x3C;head></code> element.
           </li>
           <li>
-            <code>&#x3C;meta name></code>: any element that accepts
+            <code>&#x3C;meta name></code>: any element that accepts ajay
             <a
               href="/en-US/docs/Web/HTML/Content_categories#metadata_content"
               >metadata content</a
